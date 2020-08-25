@@ -42,9 +42,9 @@ function App() {
         1000,
         'designer',
         1000,
-        'student',
-        1000,
-        'dancer',
+        'graduate student',
+        // 1000,
+        // 'dancer',
         1000,
         'gallivanter',
         1000
