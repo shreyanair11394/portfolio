@@ -7,7 +7,7 @@ export default()=>{
     <div className="container">
       <div className="row" style={{ textAlign: "center"}}> 
       <div className="col-md-12">
-        <span className="copyright">Copyright &copy; Kinjal2020</span>
+        <span className="copyright">Copyright &copy; ShreyaNair2020</span>
       </div>
     </div>
     <br/>

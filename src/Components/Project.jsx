@@ -27,11 +27,13 @@ export default () => {
 
                     <div className="col-lg-4 col-md-6 portfolio-item filter-web">
                         <div className="portfolio-info">
-                            <h3 style={{ color: "#0b4cad" }}>Lets's Talk</h3>
-                            <p style={{textAlign:'justify'}}>Lets Talk is a website for people facing mental health issues was
-                        created this for hackathon techtoegther2019. Resources can be accessed after a user signs up and fill some details. User centric recommendations are generated based on those details. In
-                        apps resource links to various apps are provided to go through. Google books API was integrated with the UI 
-                        to give book recommendations. Videos were shown using iframe. Chatbot was created using IBM Watson.</p>
+                            <h3 style={{ color: "#0b4cad" }}>Job Recruitment Portal </h3>
+                            <p style={{textAlign:'justify'}}>
+                         It is an interactive single page application to post recent job openings for employers,  
+                         search job position and job location for Job seekers.
+                          User centric recommendations are generated based on the search details. Providing a front-end platform with JavaScript 
+                          and Angular8 for customers using Restful services and MongoDB as database.
+                                </p>
 
                         </div>
                     </div>
@@ -39,11 +41,15 @@ export default () => {
 
                     <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div className="portfolio-info">
-                            <h3 style={{ color: "#0b4cad" }}>City Crime Management</h3>
+                            <h3 style={{ color: "#0b4cad" }}>Machine Learning Academic project: Airbnb Dataset </h3>
                             <p style={{textAlign:'justify'}}>
-                                A swing application was developed wherein a citizen can anonymously report a case. An ecosystem model using a singleton design pattern was demonstrated in this application. Complete
-                                data including the cases and locations was stored using the ArrayList and Linked list. Additional features like a pie chart,
-                                email and choosing a date were implemented using JFreeChart, JavaMail API and date chooser respectively.
+                                A Data science classification project for for predicting new user’s booking destination that has data pre-processing for encoding categorical data and Data visualization 
+                                to learn the kind of data using Matplotlib. 
+                                
+                                Evaluated the performance of different machine learning models.
+                                
+                                
+                                
                 </p>
 
                         </div>
@@ -51,20 +57,19 @@ export default () => {
 
                     <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div className="portfolio-info">
-                            <h3 style={{ color: "#0b4cad" }}>Tennis Game </h3>
+                            <h3 style={{ color: "#0b4cad" }}>Donation Management System using Java Swing </h3>
                             <p style={{textAlign:'justify'}}>
-                                 A single-player game was developed using HTML-5 Canvas. The user can control the racquet movement using the mouse. The score is displayed on the board. If a
-                                player misses a ball, the other player gets a point. The player that reaches three points first wins the game. After a
-                                point is scored, game control resets and starts from the center. In the end, the winner is displayed on the board.
+                            This application provides a system to disseminate the idea of donation and make the process of it as simple as one can imagine. Aimed to bring together the individual donors with donation accepting organizations to facilitate collection and distribution of donations. 
+                            Participating organizations are the NGO, Hospital, Donors, Doctors and Medical Bank.
             </p>
                         </div>
                     </div>
 
                     <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div className="portfolio-info">
-                            <h3 style={{ color: "#0b4cad" }}>Hospital Database Management System</h3>
+                            <h3 style={{ color: "#0b4cad" }}>Database for Donation Management Systems </h3>
                             <p style={{textAlign:'justify'}}>
-                                The project resolved data management problem by applying data queries to efficiently handle database. Built schema based on an entity-relationship diagram with minimum data redundancy. Learned and applied joints, triggers, and stored procedures using MySQL. Analyzed revenue generated by the hospital and the salary of the department.
+                                The project resolved data management problem by applying data queries to efficiently handle database. Built schema based on an entity-relationship diagram with minimum data redundancy. Learned and applied joints, triggers, and stored procedures using MySQL. 
                </p>
 
                         </div>
@@ -72,10 +77,10 @@ export default () => {
 
                     <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div className="portfolio-info">
-                            <h3 style={{ color: "#0b4cad" }}>Grocery Management System</h3>
+                            <h3 style={{ color: "#0b4cad" }}>Natural Language Processing for Sentiment Analysis</h3>
                             <p style={{textAlign:'justify'}}>
-                                It was built on the concept of Spring MVC. Implemented features such as login of customer and adding item to cart and able to order the items. Managed data of customers information, transactions details and stock of items in table using hibernate and MySQL
-                                Blueprinted front–end such as login page, customer and manager page using JSP.
+                            It was built for learning basic Web Scrapping- Achieved web scrapping of a website using ‘BeautifulSoup’, with text processing tasks with NLTK. 
+                            Twitter Dataset-Implemented text processing with ‘TextBlob’ to produce N-grams of word list to check polarity of words like Good, Bad etc.UtilizedTF-IDF to penalize frequently occurring words, produced bag of wordsandapplied word2vec word embeddin
               </p>
 
                         </div>
@@ -86,7 +91,7 @@ export default () => {
                     <div className="col-lg-12 col-md-4 portfolio-item filter-app" style={{ textAlign: 'center' }}>
                         <div className="portfolio-info" style={{ textAlign: 'center' }}>
                             <h3 style={{ color: "#0b4cad" }}>Wait! There's more..</h3>
-                            <p>See<a href="https://github.com/KinjalPM" target="_blank" style={{ color: "#0b4cad" }}> all Creations</a> for more examples!</p>
+                            <p>See<a href="https://github.com/shreyanair11394" target="_blank" style={{ color: "#0b4cad" }}> all Creations</a> for more examples!</p>
                         </div>
                     </div>
                 </div>

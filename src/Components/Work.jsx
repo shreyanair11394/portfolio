@@ -11,53 +11,45 @@ export default() => {
 
           <div className="col-lg-6">
             <div className="resume-item">
-              <h4>Web Developer Intern</h4>
-              <h5>Jan 2020 - July 2020</h5>
-              <p><em> Oxfam America, Boston, MA </em></p>
+              <p><h4>Software Development Coop  </h4>
+              <em> eResearch Technology, PHT Corp, Boston, MA.         &nbsp;<b>Jan 2020 - Aug 2020 </b> </em>
+              </p>
+              
+              <p><b>Project Name: </b>Idea Submission Portal 
+              </p>
+              <p><b>Technologies: </b>VueJs, Firebase Auth., NodeJs, AWS-Lambda,Python, Postgresql</p>
               <ul>
-                <li>Integrated Oxfam’s database with Hubspot and leveraged Nodejs and Python for CURD to enhance the productivity of email marketing</li>
-                <li>Maximized the user experience and user interface by redesigning and creating new templates on the existing Oxfam website using HTML</li>
-                <li>Designed several templates via JavaScript, HTML CSS for email marketing targeting a vast range of audience</li>
-                <li>Built various forms for Oxfam’s social cause including a fundraiser for emergency</li>
-                <li>Resolved various issues for cross-functional teams</li>
-                <li>Scrutinized user research and created reports for better accessibility of Oxfam America website</li>
+                <li>Developed a full stack dynamic web single page application for employees to submit suggestion within theEmployer</li>
+                <li>Used Firebase Authentication to inhibit login into the web application by outside users</li>
+                <li>Incorporated AWS API Gateway to build a RESTful API and AWS Lambda for serverless back-end service of theportal</li>
+                <li>Carried out quality assurance test using UFT web automation tool to discover errors and optimizeusabili</li>
+                
+              </ul>
+               
+              <p><b>Project Name: </b>ERT Employee WebStyleGuide Maintainence  
+              </p>
+              <p><b>Technologies: </b>HTML, CSS, Bootstrap4, Gulp.js, Node.js, Handlebars, SCSS</p>
+              <ul>
+                <li>Operational maintenance of ERT Style Guide that’s is compiled to a web page and CSS UIFramework</li>
+                <li>Working with Handlebars, SCSS and GulpJs for unified cohesive look and feel for all end users regardless of platform</li>
+                <li>Using DC.Js and D3.Js for data driven dashboard with responsivewidgets</li>
               </ul>
             </div>
             <div className="resume-item">
-              <h4>IOT Intern</h4>
-              <h5>Jan 2018 – Apr 2018</h5>
-              <p><em>University of Mumbai,India</em></p>
+            <p><h4>Business Development Executive  </h4>
+              <em> TeleTech, Ahmedabad, India.         &nbsp;<b>Jul 2016 - Jun 2018 </b> </em>
+              </p>
               <ul>
-                <li>Devised and implemented the project called Automatic Street Light</li> 
-                <li>Arduino processor, light sensor and LED were used</li>
-                <li>Automation of the streetlights based on threshold levels of the project</li>
-                <li>Assembled the data on ThingSpeak using Wi-Fi module,which could be utilized for maintenance of street light</li>
+                <li>Handled outsourcing/offshoring industry for showing business impact of returns requests/ unhappy customerreviews</li> 
+                <li>Devised and analyzed importance of voice of customer(data) to optimize business with eBayRussia</li>
+                <li>Incorporated changes in Return policy which resulted in 3% decrease in opened claims within 2months</li>
+                <li>Experienced in people-performance management, strategic orientation, macro express and elevated customersupport</li>
              
                 
               </ul>
             </div>
 
-            <div className="resume-item">
-              <h4>Research Intern</h4>
-              <h5>Dec 2017 – Jan 2018</h5>
-              <p><em>University of Mumbai,India</em></p>
-              <ul>
-                <li>Researched on ‘Evaluation of Information System’ using goal-based, goal- free and criteria- based evaluation techniques with
-                    focus on intangible and tangible benefits evaluation, and IS Risk Investment</li>
-                <li>Utilized the evaluation criteria to streamline the effectiveness of the education system</li>
-              </ul>
-            </div> 
-
-             <div className="resume-item">
-              <h4>Research Intern</h4>
-              <h5>Dec 2017 – Jan 2018</h5>
-              <p><em>University of Mumbai,India</em></p>
-              <ul>
-                <li>Analyzed PayPal services, performed SWOT Analysis on Payment Gateway and Electronic Data Interchange</li>
-                <li>Explored Customer Relationship Management, Enterprise Resource Planning, and Supply Chain Management Systems</li>
-                <li>Utilized the customer relationship management research to increase the profit</li>
-              </ul>
-            </div> 
+            
             
 
          

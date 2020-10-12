@@ -21,12 +21,22 @@ export default()=>{
               </div>
             </div>
             
+            
             <div className="progress">
               <span className="skill">Javascript </span>
               <div class="progress-bar-wrap" data-aos="fade-right">
                 <MDBProgress material value={90} height="10px" />
               </div>
             </div>
+
+            <div className="progress">
+              <span className="skill">Vue.Js </span>
+              <div class="progress-bar-wrap" data-aos="fade-right">
+                <MDBProgress material value={80} height="10px" />
+              </div>
+            </div>
+
+            
 
             <div className="progress">
               <span className="skill">React.js </span>
@@ -53,6 +63,12 @@ export default()=>{
               </div>
             </div>
 
+            <div className="progress">
+              <span className="skill">Node.Js </span>
+              <div class="progress-bar-wrap" data-aos="fade-right">
+                <MDBProgress material value={80} height="10px" />
+              </div>
+            </div>
             <div className="progress">
               <span className="skill">Rest API </span>
               <div className="progress-bar-wrap" data-aos="fade-right">

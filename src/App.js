@@ -35,25 +35,23 @@ function App() {
 
 <section id="hero" class="d-flex flex-column justify-content-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
-      <h1 style={{color:'black !important'}}>Kinjal Mehta</h1>
+      <h1 style={{color:'black !important'}}>Shreya Nair</h1>
       <p style={{color:'black !important'}}>I'm a {''}
       <Typical loop={Infinity} wrapper='b' steps={[
-        'developer',
+        'Full Stack Web Developer',
         1000,
-        'designer',
+        'Web Designer',
         1000,
-        'graduate student',
-        // 1000,
-        // 'dancer',
+        'Graduate Student',
         1000,
-        'gallivanter',
+        'Software Engineer',
         1000
       ]}></Typical>
         </p>
       <div class="social-links">
-        <a href="https://twitter.com/KinjalMehta9" class="twitter" target="_blank"><i class="bx bxl-twitter"></i></a>
-        <a href="https://www.linkedin.com/in/kinjal-mehta/" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
-        <a href="https://github.com/KinjalPM" class="Github" target="_blank"><i class="bx bxl-github"></i></a>
+        
+        <a href="https://www.linkedin.com/in/shreya-nair-7b2962114/" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://github.com/shreyanair11394" class="Github" target="_blank"><i class="bx bxl-github"></i></a>
       </div>
     </div>
   </section>
@@ -74,18 +72,23 @@ function App() {
           <div class="col-lg-8 pt-4 pt-lg-0 content">
             
             <p class="font-italic">
-            A Goal-Oriented and solution-driven software enthusiast with my Coop experience as a Web developer at Oxfam America. 
-            I have comprehensive hands-on experience in widely used technologies such as JavaScript, HTML, CSS, Java, React.JS, SQL, 
-            Spring Boot, Spring MVC. I keep the aspiration to work on new technologies and implement my skills to solve every challenge 
+            A Goal-Oriented and solution-driven software enthusiast with my Coop experience as a Software Developer at eResearch technology, PHT Corp, Boston. 
+            
+            I have comprehensive hands-on experience in widely used technologies such as JavaScript, VueJS, Angular8, NodeJs, ExpressJs, PassportJs, HTML, CSS, Bootstrap, Typescript, Python,  Java, Native React, Figma, SquareSpace, CMS: Wordpress, Version Control: Git. 
+            I keep the aspiration to work on new technologies and implement my skills to solve every challenge 
             as an opportunity to contribute constructively to society. 
-            <br/>
-            <br/>
+            <br/><br/>
+            With respect to backend and databases, I have experience in AWS lambda for building RESTFUL serverless API, Firebase Auth., OAuth 2.0, Auth0 Services, MYSQL, SQL, MongoDB, PostgreSQL.
+
+
+I am currently enrolled in coursework for website development with PHP this Fall semester. I will be graduating by December 2020 and will be available to work as a full time by January 2021.
+            <br/> <br/>
             My potential to learn quickly and self-start along with my diligent and dedicated attitude towards my work and 
             responsibilities makes me a good fit for an opportunity to efficiently work in this fast-paced IT environment.
 
               <br/>
               <br/>
-              <button><a download href="Resume(SE).pdf" download="Resume.pdf">Resume</a></button>
+              <a href="Resume_Shreya_Nair.pdf" download="Resume" ><u>CLick here to Download my Resume</u></a>
             </p>
           </div>
         </div>

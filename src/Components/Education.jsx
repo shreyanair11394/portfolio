@@ -10,14 +10,14 @@ export default()=>{
             <h3>Northeastern University</h3>
             <p> <strong> Master in Information System, December 2020</strong>
               <br/> 
-              <i> Related courses: Web Design, Web Development Tools and Methods, Program Structure & Algorithms, 
-                User Experience Design/Testing</i></p>
+              <i> Related courses: Web Design/ User Experience Engineering, User Experience Design/Testing, Application Enguneering and development, Program Structure and Algorithms
+                </i></p>
             <br/>
             <br/>
-            <h3>University of Mumbai,India</h3>
-                <p> <strong> Bachelor of Technology in Electrical and Electronics Engineering, May 2018</strong>
+            <h3>Shri Shankaracharya technical university,India</h3>
+                <p> <strong> Bachelor of Engineering in Information Technology, May 2016</strong>
                   <br/> 
-                  <i> Related courses: Object Oriented Programming (Java), C, Management Information Systems</i></p>
+                  <i> Related courses: Object Oriented Programming (Java), Management Information Systems</i></p>
       
             
           </div>
