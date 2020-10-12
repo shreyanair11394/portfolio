@@ -88,7 +88,7 @@ I am currently enrolled in coursework for website development with PHP this Fall
 
               <br/>
               <br/>
-              <a href="Resume_Shreya_Nair.pdf" download="Resume" ><u>CLick here to Download my Resume</u></a>
+              <a href="Resume_Shreya_Nair.pdf" download="Resume" ><u>My Resume</u></a>
             </p>
           </div>
         </div>
