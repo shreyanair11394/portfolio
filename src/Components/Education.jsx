@@ -14,7 +14,7 @@ export default()=>{
                 </i></p>
             <br/>
             <br/>
-            <h3>Shri Shankaracharya technical university,India</h3>
+            <h3>Shri Shankaracharya Technical College, India</h3>
                 <p> <strong> Bachelor of Engineering in Information Technology, May 2016</strong>
                   <br/> 
                   <i> Related courses: Object Oriented Programming (Java), Management Information Systems</i></p>
