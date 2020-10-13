@@ -2,19 +2,23 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://shreyanair11394.github.io/portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.1"
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
     "start": "react-scripts start",
-    "build": "CI= react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -39,6 +43,7 @@
     "aos": "^3.0.0-beta.6",
     "boxicons": "^2.0.5",
     "ejs-compiled-loader": "2.2.0",
+    "gh-pages": "^3.1.0",
     "jquery": "^3.5.1",
     "jquery.counterup": "^2.1.0",
     "mdbreact": "^4.27.0",

@@ -72,7 +72,7 @@ function App() {
           <div class="col-lg-8 pt-4 pt-lg-0 content">
             
             <p class="font-italic">
-            A Goal-Oriented and solution-driven software enthusiast with my Coop experience as a Software Developer at eResearch technology, PHT Corp, Boston. 
+            A Goal-Oriented and solution-driven software enthusiast with my Coop experience as a Software Developer at eResearch Technology, PHT Corp, Boston. 
             
             I have comprehensive hands-on experience in widely used technologies such as JavaScript, VueJS, Angular8, NodeJs, ExpressJs, PassportJs, HTML, CSS, Bootstrap, Typescript, Python,  Java, Native React, Figma, SquareSpace, CMS: Wordpress, Version Control: Git. 
             I keep the aspiration to work on new technologies and implement my skills to solve every challenge 
